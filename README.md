@@ -16,7 +16,7 @@ Our assignment was to create a version of Jeopardy with 3 players and 3 rounds. 
 
 ## In Action
 
-The first round:
+Player setup and the first round:
 
 ![Jeopar-Sea example gif](https://media.giphy.com/media/MEclN71gHfWmULAk69/giphy.gif)
 
